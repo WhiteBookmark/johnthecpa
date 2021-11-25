@@ -7,7 +7,7 @@ sections:
     title: 'Hi, I''m Stackbit Exto Portfolio Theme Advanced.'
     content: >
       This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you preferr.
+      one to three sentences, but can be changed as you preferred.
     actions:
       - label: Let's talk
         url: /contact
